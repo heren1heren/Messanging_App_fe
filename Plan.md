@@ -22,5 +22,7 @@ Routes:
 /Settings/...
 /HomePage
 **Note**
-
+handle display when there is no data fetched from backend yet
+For example:
+no group chat yet, Be the first person who created one?
 **Problem**
